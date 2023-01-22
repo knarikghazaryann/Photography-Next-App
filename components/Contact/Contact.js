@@ -9,7 +9,7 @@ const Contact = () => {
                 <input className='border shadow-lg p-3' type='text' placeholder='Name' />
                 <input className='border shadow-lg p-3' type='text' placeholder='Email' />
             </div>
-            <input className='border shadow-lg p-3 w-full my-2' type='text' placeholder='SUbject' />
+            <input className='border shadow-lg p-3 w-full my-2' type='text' placeholder='Subject' />
             <textarea className='border shadow-lg p-3 w-full' colls='30' rows='10' placeholder='Message' />
             <button className='border shadow-lg p-3 w-full mt-2'> Submit </button>
         </form>
